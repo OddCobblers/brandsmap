@@ -5,7 +5,7 @@ Customize Leaflet maps with a linked Google Sheets template and GeoJSON data on 
 
 ## Live links (replace with your own)
 - Leaflet Map https://oddcobblers.github.io/brandsmap/
-- Google Sheets template https://docs.google.com/spreadsheets/d/19FF1xyU2MAiU6g8mXI13-i2eNO4ZiPeT4kx0Oj2jN3s/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vSo_SvG4TFSwFiod3D_prKvVO8wba9ifrxyd5zxw3Gzjq8c952A7JmgoWqqjDcp2L-WiHpoyjRXjy_W/pubhtml
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-maps-with-google-sheets.html
