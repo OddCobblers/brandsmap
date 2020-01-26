@@ -36,7 +36,6 @@
             var options = L.Util.setOptions(this);
             var svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
             var path = document.createElementNS('http://www.w3.org/2000/svg', "path");
-            var backgroundCircle = document.createElementNS('http://www.w3.org/2000/svg', "circle");
             var icongroup = document.createElementNS('http://www.w3.org/2000/svg', "g");
             var icon = document.createElementNS('http://www.w3.org/2000/svg', "text");
 
